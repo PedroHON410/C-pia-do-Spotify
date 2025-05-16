@@ -25,3 +25,5 @@ export default App2;
 // Bloco_elemento -- modificador
 // header__link
 // header__link -- small
+
+// tag vazia em react se chama fragment ou fraguemento
