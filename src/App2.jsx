@@ -27,3 +27,4 @@ export default App2;
 // header__link -- small
 
 // tag vazia em react se chama fragment ou fraguemento
+// nomes compostos são separados por -
